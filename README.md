@@ -3,7 +3,7 @@
 Instructor: [Dr. Dimitris Kastaniotis](http://www.upcv.upatras.gr/personal/kastaniotis/)
 <br />
 
-## [Lecture 1:](https://1drv.ms/b/s!ApYTq_KPVaqwgP53JxvmAjqs0oz7Iw) Introduction to Machine Learning- Supervised and Unsupervised Learning methods
+## [Lecture 1:](https://www.dropbox.com/s/m5rueklu5qctlfh/Lecture1_share.pdf?dl=0) Introduction to Machine Learning- Supervised and Unsupervised Learning methods
 Topics covered: <br/>
 - Machine Learning definition
 - Unsupervised Learning (Dimensionality Reduction, Blind Source Separation, Clustering)
@@ -11,7 +11,7 @@ Topics covered: <br/>
 - Brief introduction to Optimization
 - Model Selection
 <hr>
-## [Lecture 2:](https://1drv.ms/p/s!ApYTq_KPVaqwgP5kCp9vxMOOBnhjKg) Introduction to Deep Learning
+## [Lecture 2:](https://www.dropbox.com/s/oi3m0ntpxfg8qi2/Lecture2_share.pdf?dl=0) Introduction to Deep Learning
 Topics covered: <br/>
 - Perceptron and Multilayer Linear Networks
 - Convolutional Neural Networks
@@ -20,7 +20,7 @@ Topics covered: <br/>
 - Natural Language Processing
 <hr>
 
-## [Projects 1:](https://1drv.ms/b/s!ApYTq_KPVaqwgYAt3Cq6xNBgKpDIjg) Projects for Machine Learning and Data Analysis
+## [Projects :](https://www.dropbox.com/s/0x94kp4uh5x4aw7/Projects_share.pdf?dl=0) Projects for Machine Learning and Data Analysis
 Topics covered: <br/>
 - Clustering
 - Dimensionality reduction
