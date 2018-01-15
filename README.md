@@ -9,7 +9,7 @@ Topics covered: <br/>
 - Brief introduction to Optimization
 - Model Selection
 
-## [Lecture 2:](Lecture2_share.pdf) IIntroduction to Deep Neural Networks
+## [Lecture 2:](Lecture2_share.pdf) Introduction to Deep Learning
 Topics covered: <br/>
 - Perceptron and Multilayer Linear Networks
 - Convolutional Neural Networks
