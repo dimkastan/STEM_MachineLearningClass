@@ -10,7 +10,7 @@ Topics covered: <br/>
 - Supervised Learning (Linear models for classification and Regression, Kernel Methods, Lazy Learning)
 - Brief introduction to Optimization
 - Model Selection
-Here [sound_files.zip] (https://www.dropbox.com/s/r4en0fc3yun9fo8/sound_files.zip?dl=0) you can find the sound files used to demonstrate Independent Component Analysis (slides 59- 67) 
+Here [sound_files.zip](https://www.dropbox.com/s/r4en0fc3yun9fo8/sound_files.zip?dl=0) you can find the sound files used to demonstrate Independent Component Analysis (slides 59- 67) 
 <br />
 <hr>
 ## Lecture 2:[pdf](https://www.dropbox.com/s/oi3m0ntpxfg8qi2/Lecture2_share.pdf?dl=0)| [ppt](https://www.dropbox.com/s/oi3m0ntpxfg8qi2/Lecture2_share.pdf?dl=0) Introduction to Deep Learning
