@@ -1,6 +1,6 @@
 # Lecture notes for "Interdisciplinary Approach to Science, Technology, Engineering and Mathematics - STEM in Education"
 
-Instructor: [Dr. Dimitris Kastaniotis](http://www.upcv.upatras.gr/personal/kastaniotis/)
+Instructor: [Dimitris Kastaniotis, PhD](http://www.upcv.upatras.gr/personal/kastaniotis/)
 <br />
 
 ## Lecture 1:[pdf](https://www.dropbox.com/s/m5rueklu5qctlfh/Lecture1_share.pdf?dl=0)| [ppt](https://www.dropbox.com/s/quqx7r0h5ddtivu/Lecture1_share.pptx?dl=0)  Introduction to Machine Learning- Supervised and Unsupervised Learning methods
